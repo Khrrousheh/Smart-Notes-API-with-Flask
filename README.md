@@ -5,7 +5,7 @@ A lightweight, fully RESTful API built with **Flask** and **SQLAlchemy** for man
 This project showcases my adaptability to Flask and serves as a backend microservice example.
 
 ---
-
+![ci](https://github.com/Khrrousheh/Smart-Notes-API-with-Flask/actions/workflows/ci.yml/badge.svg)
 ## 🚀 Features
 
 - Create, read, update, and delete notes
